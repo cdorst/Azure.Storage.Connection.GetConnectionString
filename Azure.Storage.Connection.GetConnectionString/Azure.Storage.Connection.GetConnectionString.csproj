@@ -15,7 +15,7 @@
     <PackageLicenseUrl>https://github.com/cdorst/Azure.Storage.Connection.GetConnectionString/blob/master/LICENSE</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/cdorst/Azure.Storage.Connection.GetConnectionString</PackageProjectUrl>
     <RepositoryUrl>https://github.com/cdorst/Azure.Storage.Connection.GetConnectionString</RepositoryUrl>
-    <Version>4.0.7</Version>
+    <Version>4.0.8</Version>
   </PropertyGroup>
 
 </Project>
